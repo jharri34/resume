@@ -1,0 +1,118 @@
+﻿Jay Harris
+https://github.com/jharri34 | harrisjayjamall@gmail.com | jharri34.github.io| 205-240-0966| https://www.linkedin.com/in/jamall-harris-8a6a3952
+Skills
+________________
+
+
+* Languages: Python, Ruby,  Perl,  Bash, C#, C++, C,  Java,.NET, HTML, CSS, Javascript, SQL, Kotlin, Swift, Django, Flask, Octopus, Ansible, Elasticsearch,Vagrant,Slurm
+* Platforms: Linux, Android, Windows, IOS, OSX
+* Skills: Mobile Application Development, Server Application Development, Web Application Development, Cloud Application Development, Full-Stack Application Development, Database Administration, Data Analytics, Technical Instructor, TCP/IP, routing, switching, wireless
+* Strong leadership, organizational, and communication, multi-tasking skills
+EDUCATE
+________________
+
+
+University of Alabama at Birmingham
+	Birmingham, AL
+	Bachelor of Arts and Science 
+	May 2017
+	* Major: Computer Science 
+Experience 
+________________
+
+
+UAB ( University of Alabama at Birmingham )
+	Birmingham, AL
+	Lab Assistant 
+	May 2017 - Current
+	* Responsible for implementing a GATK workflow for the purpose of sequencing diploid and haploid organisms within a shared computing cluster(super-computer) using scripting language such as python, bash, perl, and slurm.
+* Responsible for interpreting the architectural needs, development, and deployment of an solution based on genetic researchers needs, then integrating with existing applications, systems, or platforms to develop a high throughput sequencing engine for genetic discovery.
+
+
+TEALS ( Technology Education and Literacy in Schools )
+	Birmingham, AL
+	Tech Professional
+	August 2016 - March 2017
+	* Teach programing concept(Java/Python) and skills  to high school students
+* Develop multiple teaching methods for various students learning styles
+
+
+
+
+
+
+Tech Alabama
+	Birmingham, AL
+	Lead Instructor  
+	February 2015 - January 2016
+	* Develop, advise and aid a programing curriculum(Java/Python) for +100 members in the birmingham and surrounding area. 
+
+
+Ingrid & Trussville Gymnastic 
+	Birmingham, AL
+	Consultant  
+	February 2016 - Current
+	* Develop and advise the construction(Wordpress/Linux Administration) of the entire company website and content partially responsible for increasing membership.
+
+
+Director Point 
+	Birmingham, AL
+	Consultant / Contractor 
+	February 2015 - January 2016
+	* Developed new functionality(HTML/CSS/Javascript/Node/SQL) for the company's flagship product while contributing to existing documentation, fixing bugs,  logical inconsistencies and refining existing procedures.  
+
+
+Influence Health 
+	Birmingham, AL
+	Junior Software Developer  
+	July 2015 - October 2015
+	* Developed internal fullstack webapps(bash automation/Octopus/ Ansible/ Elasticsearch/python/ruby/node) using micro services principles that helped healthcare providers engage patients in a personalized way, for impactful outcomes.
+
+
+Intermark 
+	Birmingham, AL
+	Junior Software Developer / Intern 
+	June 2014 - December 2015
+	* Developed internal applications(HTML/CSS/Javascript/Node/C#/.NET) to aid in organizing future events 
+* Developed a redesign of UPS mobile application for both IOS and Android
+* Developed fullstack websites for multiple clients advertisement campaign including SouthEast Toyota 
+
+
+University of Alabama  
+	Birmingham, AL
+	Junior Software Developer / Researcher 
+	June 2013 - January 2016
+	* Developed IOS/Android Application Cancer Resources (Java/C#/Phonegap)
+* Developed IOS/Android Application PEACE-P/PEACE-M/APEC Guidelines (Bash/Java/C#/Phonegap)
+* Developed IOS/Andriod Application Pediatric Dental App(Java/C#/Phonegap)
+* Developed IOS/Andriod Application MAXX Bus Routes(Java)
+* Developed Desktop Application MailParser (Java)
+
+
+
+
+
+
+
+
+Highlights 
+	Affiliations / Organization
+	Facebook’s Capture The Flag Competition Winner 2014
+	Code for Birmingham  2014
+	UAB ACM Chair 2014 - 2015
+	Code for America 2014
+	Datafest Hackathon Winner  2015
+	Code.org 2016
+	Smart City Hackathon Finialist 2016
+	Birmingham Venture Club 2015
+	Code Sprint Finalist 2016
+	UAB Entrepreneurs Club 2015
+	
+
+	UAB Innovation Lab 2014
+	
+
+	Red Mountain Makers 2013
+	
+
+	Birmingham Open Source Software 2014
